@@ -1,0 +1,68 @@
+{
+  "agent": [
+    {
+      "title": "11号",
+      "icon": {
+        "type": "external",
+        "external": {
+          "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/25/76099754/41cac9b7c43299248f50ef69a8d4d6fe_9121267123322404.png?x-oss-process=image/quality,q_75/resize,s_278"
+        }
+      },
+      "level": 0,
+      "weapon_level": 0,
+      "constellation": 0,
+      "character_property": "火",
+      "character_positioning": "强攻",
+      "camp": "奥波勒斯小队",
+      "rarity": "S"
+    },
+    {
+      "title": "丽娜",
+      "icon": {
+        "type": "external",
+        "external": {
+          "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/29/141353238/9a978a559ee6822481b7d4143170affe_464856154643405893.png?x-oss-process=image/quality,q_75/resize,s_278"
+        }
+      },
+      "level": 0,
+      "weapon_level": 0,
+      "constellation": 0,
+      "character_property": "电",
+      "character_positioning": "支援",
+      "camp": "维多利亚家政",
+      "rarity": "S"
+    },
+    {
+      "title": "珂蕾妲",
+      "icon": {
+        "type": "external",
+        "external": {
+          "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/27/82232455/e49ffec1188f11ac70f2fd7e500fbd2c_5771997888796504931.png?x-oss-process=image/quality,q_75/resize,s_278"
+        }
+      },
+      "level": 0,
+      "weapon_level": 0,
+      "constellation": 0,
+      "character_property": "火",
+      "character_positioning": "击破",
+      "camp": "白祇重工",
+      "rarity": "S"
+    },
+    {
+      "title": "格莉丝",
+      "icon": {
+        "type": "external",
+        "external": {
+          "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/21/160824341/e16ac4c5e1f06ba44b1fd48539916be3_3243900714756554770.png?x-oss-process=image/quality,q_75/resize,s_278"
+        }
+      },
+      "level": 0,
+      "weapon_level": 0,
+      "constellation": 0,
+      "character_property": "电",
+      "character_positioning": "异常",
+      "camp": "白祇重工",
+      "rarity": "S"
+    }
+  ]
+}
